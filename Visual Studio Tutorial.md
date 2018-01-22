@@ -1,5 +1,5 @@
 # How to create a new C++ win32 c++ project in Visual Studio 2017
-Guyide goes here
+Guide goes here
 1. Do this first
 2. Do this second
     1. This is a second substep
