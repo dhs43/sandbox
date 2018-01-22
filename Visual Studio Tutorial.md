@@ -1,7 +1,11 @@
 # How to create a new C++ win32 c++ project in Visual Studio 2017
-Guide goes here
-1. Do this first
-2. Do this second
-    1. This is a second substep
-    2. This is another substep
-3. Do this last.
+1. Open Visual Studio 2017
+2. Go to File>New>Project
+    1. On the left, open Visual C++
+    2. Select General
+    3. Select Empty Project
+    4. Add a name
+    5. Choose where to save the project
+3. Create a new source file
+4. Write code and save
+5. Debug>Start without debugging
