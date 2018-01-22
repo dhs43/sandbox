@@ -4,4 +4,4 @@ Guide goes here
 2. Do this second
     1. This is a second substep
     2. This is another substep
-3. Do this last
+3. Do this last.
